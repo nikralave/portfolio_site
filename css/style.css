@@ -1,5 +1,5 @@
-#logo {
-    width: 60px;
-    height: 60px;
-
+.navbar-default {
+  background-color: black;
+  margin-bottom: 0;
+  padding-bottom: 25px;
 }
