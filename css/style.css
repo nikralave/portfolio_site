@@ -3,3 +3,9 @@
   margin-bottom: 0;
   padding-bottom: 25px;
 }
+
+.hero {
+  background: url(../assets/images/laptop_hero.jpg) no-repeat center center;
+   background-size: cover;
+  height: 700px;
+}
